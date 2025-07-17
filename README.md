@@ -19,7 +19,6 @@ This project demonstrates a **highly scalable, decoupled, and resilient cloud ar
 > - Highly available **RDS** and **ElastiCache** with cross-AZ redundancy
 > - Monitoring and logging via **CloudWatch**, **Grafana**, and **CloudTrail**
 
-![Classic Cloud High-Concurrency Architecture](./6e29b9c1-247d-4ac4-be37-8343bf864ab4.png)
 
 ---
 
